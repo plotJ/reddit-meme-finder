@@ -2,6 +2,8 @@
 
 Reddit Meme Finder is a tool that helps you discover and download relevant memes from various subreddits based on your search query. It uses OpenAI's GPT-3.5-turbo model to analyze the relevance of memes to your search terms.
 
+![Project Showcase](showcase.png)
+
 ## Features
 
 - Search memes across multiple subreddits
@@ -22,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/reddit-meme-finder.git
+   git clone https://github.com/plotj/reddit-meme-finder.git
    cd reddit-meme-finder
    ```
 
@@ -86,7 +88,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Inspiration
 
-This project was inspired by a tweet from Natia Kurdadze (@natiakourdadze) outlining a strategy for growing a social media following using memes and targeted content. The tweet describes a process of identifying your target audience, finding relevant memes, and using them to build engagement before transitioning to educational content. Our tool automates part of this process, making it easier to find and utilize relevant memes for your content strategy.
+This project was inspired by a tweet from Natia Kurdadze (@natiakourdadze) outlining a strategy for growing a social media following using memes and targeted content. The tweet describes a process of identifying your target audience, finding relevant memes, and using them to build engagement before transitioning to educational content. My tool automates part of this process, making it easier to find and utilize relevant memes for your content strategy.
 
 ![Inspiring Tweet](assets/tweet.png)
 
