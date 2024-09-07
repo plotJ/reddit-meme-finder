@@ -6,7 +6,7 @@ Reddit Meme Finder is a tool that helps you discover and download relevant memes
 
 ## Inspiration
 
-This project was inspired by a tweet from Natia Kurdadze (@natiakourdadze) outlining a strategy for growing a social media following using memes and targeted content. The tweet describes a process of identifying your target audience, finding relevant memes, and using them to build engagement before transitioning to educational content. My tool automates part of this process, making it easier to find and utilize relevant memes for your content strategy.
+This project was inspired by [this tweet](https://x.com/natiakourdadze/status/1832088833573478796) from Natia Kurdadze (@natiakourdadze) outlining a strategy for growing a social media following using memes and targeted content. The tweet describes a process of identifying your target audience, finding relevant memes, and using them to build engagement before transitioning to educational content. My tool automates part of this process, making it easier to find and utilize relevant memes for your content strategy.
 
 ![Inspiring Tweet](tweet.png)
 
